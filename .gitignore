@@ -74,3 +74,7 @@ ENV/
 Thumbs.db
 .DS_Store
 
+# Multi-agent output and log files
+multi_agent/summary.txt
+multi_agent/app.log
+
