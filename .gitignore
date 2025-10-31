@@ -78,3 +78,6 @@ Thumbs.db
 multi_agent/summary.txt
 multi_agent/app.log
 
+
+term_mail/profile.txt
+term_mail/app.log
